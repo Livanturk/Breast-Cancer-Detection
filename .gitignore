@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Sistem Dosyaları
+.DS_Store
+*.env
